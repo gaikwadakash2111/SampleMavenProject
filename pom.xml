@@ -43,11 +43,13 @@
 
 
 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 <dependency>
     <groupId>org.apache.poi</groupId>
-    <artifactId>poi</artifactId>
+    <artifactId>poi-ooxml</artifactId>
     <version>5.2.3</version>
 </dependency>
+
 
 <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 <dependency>
@@ -56,13 +58,6 @@
     <version>2.13.0</version>
 </dependency>
 
-
-
-  	<dependency>
-  		<groupId>Demo123</groupId>
-  		<artifactId>23rdBatchFinalProject</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
 
   <build>

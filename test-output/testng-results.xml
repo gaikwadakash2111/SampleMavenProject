@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-03T16:35:49 IST" name="Suite" finished-at="2023-10-03T16:36:30 IST" duration-ms="40993">
+  <suite started-at="2023-10-03T17:09:33 IST" name="Suite" finished-at="2023-10-03T17:10:15 IST" duration-ms="42530">
     <groups>
     </groups>
-    <test started-at="2023-10-03T16:35:49 IST" name="Test" finished-at="2023-10-03T16:36:30 IST" duration-ms="40993">
+    <test started-at="2023-10-03T17:09:33 IST" name="Test" finished-at="2023-10-03T17:10:15 IST" duration-ms="42530">
       <class name="testCase.CapturingScreenshots">
-        <test-method signature="sc()[pri:0, instance:testCase.CapturingScreenshots@63376bed]" started-at="2023-10-03T16:36:23 IST" name="sc" finished-at="2023-10-03T16:36:30 IST" duration-ms="7375" status="PASS">
+        <test-method signature="sc()[pri:0, instance:testCase.CapturingScreenshots@2a7f1f10]" started-at="2023-10-03T17:10:07 IST" name="sc" finished-at="2023-10-03T17:10:15 IST" duration-ms="8006" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sc -->
       </class> <!-- testCase.CapturingScreenshots -->
       <class name="testCase.VerifyLogin">
-        <test-method signature="login()[pri:0, instance:testCase.VerifyLogin@791f145a]" started-at="2023-10-03T16:35:49 IST" name="login" finished-at="2023-10-03T16:36:23 IST" duration-ms="33484" status="PASS">
+        <test-method signature="login()[pri:0, instance:testCase.VerifyLogin@6574a52c]" started-at="2023-10-03T17:09:33 IST" name="login" finished-at="2023-10-03T17:10:07 IST" duration-ms="34430" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
